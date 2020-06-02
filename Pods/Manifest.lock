@@ -1,0 +1,30 @@
+PODS:
+  - Bond (7.6.6):
+    - Differ (~> 1.4)
+    - ReactiveKit (~> 3.14)
+  - Cuckoo (1.3.2):
+    - Cuckoo/Swift (= 1.3.2)
+  - Cuckoo/Swift (1.3.2)
+  - Differ (1.4.5)
+  - ReactiveKit (3.17.1)
+
+DEPENDENCIES:
+  - Bond
+  - Cuckoo
+
+SPEC REPOS:
+  trunk:
+    - Bond
+    - Cuckoo
+    - Differ
+    - ReactiveKit
+
+SPEC CHECKSUMS:
+  Bond: 9e7d901cf4ed825b6004a93dd0a7f1c7479e2834
+  Cuckoo: 57f71c6616b6b08cd9fe27f803da056fb619ff3e
+  Differ: 3b6bd78e2b20cc795d9a86f7641d087524e4273e
+  ReactiveKit: f578a74d3555296ea61fab228f5245a4ed7b4b27
+
+PODFILE CHECKSUM: 3ed611752b260768344087bc44cd4c132f1a9be5
+
+COCOAPODS: 1.8.4

@@ -2,7 +2,6 @@
 //  SceneDelegate.swift
 //  WeatherApp
 //
-//  Created by Tara Dilip on 30/05/20.
 //  Copyright © 2020 Kalmesh. All rights reserved.
 //
 
