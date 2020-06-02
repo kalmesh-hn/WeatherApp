@@ -1,8 +1,9 @@
 # WeatherApp
 
-Design Pattern used : MVVM
-Library used for MVVM bindings : Bond
-Library used for mocking in Unit Tests : Cuckoo
+- Design Pattern used : MVVM
+- Library used for MVVM bindings : Bond
+- Library used for mocking in Unit Tests : Cuckoo
+
 Things to be improved in the assignment:
 - Better UI: Used a super simple UI. Have used super simple colors. Have not tested
 across device types.
